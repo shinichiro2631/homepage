@@ -1,4 +1,4 @@
-こんにちは世界
+![beach01](https://github.com/shinichiro2631/homepage/assets/113074008/a58c5298-2b4b-46e5-b404-ad25a0053b86)こんにちは世界
 
 こんにちは
 世界
