@@ -43,5 +43,3 @@
 
 docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
 [ほげ](./fuga/hoge.md)
-
-![Uploading beach01.png…]()
