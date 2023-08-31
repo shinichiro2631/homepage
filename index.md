@@ -40,3 +40,6 @@
 ぴよ
 
 ほげ[ふが](https://github.com/)ぴよ
+
+docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
+[ほげ](./fuga/hoge.md)
