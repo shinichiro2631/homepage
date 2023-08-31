@@ -43,3 +43,5 @@
 
 docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
 [ほげ](./fuga/hoge.md)
+
+![Alt text](./beach01.png)
